@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any project (backend or frontend)<br>🤝 I’m looking for help with picking Backend Frameworks<br>🌱 I’m currently learning C++ and Neovim<br>
+👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning C++ <br>
 
 
 ## 🌐 Socials:
