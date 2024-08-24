@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning C++ <br>
+👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Spring Boot <br>
 
 
 ## 🌐 Socials:
