@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on recreating a jsx parser
+I'm currently working on making an interpreter in typescript
 
 
 ## 🌐 Socials:
