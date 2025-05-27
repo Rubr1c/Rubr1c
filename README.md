@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on making an interpreter in typescript
+I'm currently working on every-api
 
 
 ## 🌐 Socials:
