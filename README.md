@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on every-api
+I'm currently working on discord-ai-sdk
 
 
 ## 🌐 Socials:
